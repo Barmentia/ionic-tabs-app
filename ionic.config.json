@@ -1,0 +1,8 @@
+{
+  "name": "ionic-tabs-app",
+  "app_id": "e3f1b684",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
